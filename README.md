@@ -1,1 +1,6 @@
 # BaymaxCore
+
+   ╭───────────────╮
+  (  ◕ ◕ )  <  Scanning for pathologies...  
+   ╰───────────────╯
+    /|\    \
